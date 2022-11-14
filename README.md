@@ -53,6 +53,6 @@ private:
 };
 ```
 
-# Cbeer
+# 🍻 Cbeer
 Остальные лабораторный работы по Cbeer Вы можете найти [тут.](https://github.com/mightyK1ngRichard/Cbeer)
 
